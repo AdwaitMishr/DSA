@@ -17,7 +17,7 @@ int partition(vector<int> &arr,int s,int e){
         else if(arr[c]>arr[i])
         i++;
         else if(arr[c]<arr[j])
-        j++;
+        j--;
 
     }
     return elIndex;
