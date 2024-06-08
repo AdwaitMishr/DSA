@@ -6,6 +6,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 |  |
 | ------- |
 | [0046-permutations](https://github.com/AdwaitMishr/DSA/tree/master/0046-permutations) |
+| [0523-continuous-subarray-sum](https://github.com/AdwaitMishr/DSA/tree/master/0523-continuous-subarray-sum) |
 | [1044-find-common-characters](https://github.com/AdwaitMishr/DSA/tree/master/1044-find-common-characters) |
 # Backtracking
 |  |
@@ -27,4 +28,13 @@ My repo for all the important theory and questions realted to dsa for quick revi
 # Hash Table
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/AdwaitMishr/DSA/tree/master/0523-continuous-subarray-sum) |
 | [1044-find-common-characters](https://github.com/AdwaitMishr/DSA/tree/master/1044-find-common-characters) |
+# Math
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/AdwaitMishr/DSA/tree/master/0523-continuous-subarray-sum) |
+# Prefix Sum
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/AdwaitMishr/DSA/tree/master/0523-continuous-subarray-sum) |
