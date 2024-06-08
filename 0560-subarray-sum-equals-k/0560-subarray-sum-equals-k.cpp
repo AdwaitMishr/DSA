@@ -9,7 +9,7 @@ public:
         sum+=nums[i];
         int r=sum-k;
         c+=mp[r];
-        mp[sum]+=1;
+        mp[sum]++;
         }
      
      return c;
