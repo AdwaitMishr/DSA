@@ -9,6 +9,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [0075-sort-colors](https://github.com/AdwaitMishr/DSA/tree/master/0075-sort-colors) |
 | [0523-continuous-subarray-sum](https://github.com/AdwaitMishr/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AdwaitMishr/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/AdwaitMishr/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/AdwaitMishr/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/AdwaitMishr/DSA/tree/master/1044-find-common-characters) |
 # Backtracking
@@ -28,6 +29,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 # Greedy
 |  |
 | ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/AdwaitMishr/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/AdwaitMishr/DSA/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Hash Table
 |  |
@@ -50,3 +52,8 @@ My repo for all the important theory and questions realted to dsa for quick revi
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AdwaitMishr/DSA/tree/master/0075-sort-colors) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/AdwaitMishr/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
+# Counting
+|  |
+| ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/AdwaitMishr/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
