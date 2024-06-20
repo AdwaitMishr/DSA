@@ -76,3 +76,11 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AdwaitMishr/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AdwaitMishr/DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/AdwaitMishr/DSA/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+# Linked List
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/AdwaitMishr/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+# Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/AdwaitMishr/DSA/tree/master/0025-reverse-nodes-in-k-group) |
