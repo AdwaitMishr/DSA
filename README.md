@@ -14,6 +14,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AdwaitMishr/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/AdwaitMishr/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/AdwaitMishr/DSA/tree/master/1044-find-common-characters) |
+| [1138-grumpy-bookstore-owner](https://github.com/AdwaitMishr/DSA/tree/master/1138-grumpy-bookstore-owner) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AdwaitMishr/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AdwaitMishr/DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/AdwaitMishr/DSA/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -84,3 +85,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/AdwaitMishr/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+# Sliding Window
+|  |
+| ------- |
+| [1138-grumpy-bookstore-owner](https://github.com/AdwaitMishr/DSA/tree/master/1138-grumpy-bookstore-owner) |
