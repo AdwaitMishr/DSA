@@ -26,6 +26,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AdwaitMishr/DSA/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/AdwaitMishr/DSA/tree/master/0141-linked-list-cycle) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/AdwaitMishr/DSA/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -42,6 +43,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 # Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/AdwaitMishr/DSA/tree/master/0141-linked-list-cycle) |
 | [0523-continuous-subarray-sum](https://github.com/AdwaitMishr/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AdwaitMishr/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/AdwaitMishr/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -81,6 +83,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/AdwaitMishr/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0141-linked-list-cycle](https://github.com/AdwaitMishr/DSA/tree/master/0141-linked-list-cycle) |
 # Recursion
 |  |
 | ------- |
