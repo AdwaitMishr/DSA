@@ -15,6 +15,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [1016-subarray-sums-divisible-by-k](https://github.com/AdwaitMishr/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/AdwaitMishr/DSA/tree/master/1044-find-common-characters) |
 | [1138-grumpy-bookstore-owner](https://github.com/AdwaitMishr/DSA/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/AdwaitMishr/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AdwaitMishr/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/AdwaitMishr/DSA/tree/master/1675-magnetic-force-between-two-balls) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/AdwaitMishr/DSA/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -48,10 +49,12 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [0560-subarray-sum-equals-k](https://github.com/AdwaitMishr/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/AdwaitMishr/DSA/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/AdwaitMishr/DSA/tree/master/1044-find-common-characters) |
+| [1370-count-number-of-nice-subarrays](https://github.com/AdwaitMishr/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 # Math
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/AdwaitMishr/DSA/tree/master/0523-continuous-subarray-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/AdwaitMishr/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 # Prefix Sum
 |  |
 | ------- |
@@ -92,3 +95,4 @@ My repo for all the important theory and questions realted to dsa for quick revi
 |  |
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/AdwaitMishr/DSA/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/AdwaitMishr/DSA/tree/master/1370-count-number-of-nice-subarrays) |
