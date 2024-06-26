@@ -40,6 +40,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [0330-patching-array](https://github.com/AdwaitMishr/DSA/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/AdwaitMishr/DSA/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/AdwaitMishr/DSA/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1285-balance-a-binary-search-tree](https://github.com/AdwaitMishr/DSA/tree/master/1285-balance-a-binary-search-tree) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/AdwaitMishr/DSA/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Hash Table
 |  |
@@ -96,3 +97,23 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/AdwaitMishr/DSA/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AdwaitMishr/DSA/tree/master/1370-count-number-of-nice-subarrays) |
+# Divide and Conquer
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/AdwaitMishr/DSA/tree/master/1285-balance-a-binary-search-tree) |
+# Tree
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/AdwaitMishr/DSA/tree/master/1285-balance-a-binary-search-tree) |
+# Depth-First Search
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/AdwaitMishr/DSA/tree/master/1285-balance-a-binary-search-tree) |
+# Binary Search Tree
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/AdwaitMishr/DSA/tree/master/1285-balance-a-binary-search-tree) |
+# Binary Tree
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/AdwaitMishr/DSA/tree/master/1285-balance-a-binary-search-tree) |
