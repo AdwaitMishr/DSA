@@ -88,6 +88,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/AdwaitMishr/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/AdwaitMishr/DSA/tree/master/0141-linked-list-cycle) |
+| [0138-copy-list-with-random-pointer](https://github.com/AdwaitMishr/DSA/tree/master/0138-copy-list-with-random-pointer) |
 # Recursion
 |  |
 | ------- |
@@ -117,14 +118,3 @@ My repo for all the important theory and questions realted to dsa for quick revi
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/AdwaitMishr/DSA/tree/master/1285-balance-a-binary-search-tree) |
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [0138-copy-list-with-random-pointer](https://github.com/AdwaitMishr/DSA/tree/master/0138-copy-list-with-random-pointer) |
-## Linked List
-|  |
-| ------- |
-| [0138-copy-list-with-random-pointer](https://github.com/AdwaitMishr/DSA/tree/master/0138-copy-list-with-random-pointer) |
-<!---LeetCode Topics End-->
