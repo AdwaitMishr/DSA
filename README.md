@@ -170,4 +170,12 @@ My repo for all the important theory and questions realted to dsa for quick revi
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AdwaitMishr/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AdwaitMishr/DSA/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AdwaitMishr/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
