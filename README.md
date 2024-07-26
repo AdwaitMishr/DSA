@@ -124,6 +124,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/AdwaitMishr/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0148-sort-list](https://github.com/AdwaitMishr/DSA/tree/master/0148-sort-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/AdwaitMishr/DSA/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Two Pointers
@@ -162,6 +163,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/AdwaitMishr/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AdwaitMishr/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
