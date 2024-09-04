@@ -161,6 +161,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AdwaitMishr/DSA/tree/master/0013-roman-to-integer) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AdwaitMishr/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Recursion
 |  |
@@ -178,6 +179,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AdwaitMishr/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/AdwaitMishr/DSA/tree/master/0020-valid-parentheses) |
 ## Stack
 |  |
@@ -192,5 +194,6 @@ My repo for all the important theory and questions realted to dsa for quick revi
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AdwaitMishr/DSA/tree/master/0013-roman-to-integer) |
 | [0146-lru-cache](https://github.com/AdwaitMishr/DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
