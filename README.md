@@ -128,6 +128,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [0146-lru-cache](https://github.com/AdwaitMishr/DSA/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/AdwaitMishr/DSA/tree/master/0148-sort-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/AdwaitMishr/DSA/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [2411-spiral-matrix-iv](https://github.com/AdwaitMishr/DSA/tree/master/2411-spiral-matrix-iv) |
 ## Two Pointers
 |  |
 | ------- |
@@ -162,6 +163,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [1497-design-a-stack-with-increment-operation](https://github.com/AdwaitMishr/DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/AdwaitMishr/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AdwaitMishr/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2411-spiral-matrix-iv](https://github.com/AdwaitMishr/DSA/tree/master/2411-spiral-matrix-iv) |
 ## Math
 |  |
 | ------- |
@@ -181,6 +183,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AdwaitMishr/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2411-spiral-matrix-iv](https://github.com/AdwaitMishr/DSA/tree/master/2411-spiral-matrix-iv) |
 ## String
 |  |
 | ------- |
@@ -222,4 +225,8 @@ My repo for all the important theory and questions realted to dsa for quick revi
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/AdwaitMishr/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+## Matrix
+|  |
+| ------- |
+| [2411-spiral-matrix-iv](https://github.com/AdwaitMishr/DSA/tree/master/2411-spiral-matrix-iv) |
 <!---LeetCode Topics End-->
