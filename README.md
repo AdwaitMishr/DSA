@@ -147,6 +147,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/AdwaitMishr/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/AdwaitMishr/DSA/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -187,6 +188,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AdwaitMishr/DSA/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/AdwaitMishr/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/AdwaitMishr/DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Design
 |  |
@@ -198,4 +200,12 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | ------- |
 | [0013-roman-to-integer](https://github.com/AdwaitMishr/DSA/tree/master/0013-roman-to-integer) |
 | [0146-lru-cache](https://github.com/AdwaitMishr/DSA/tree/master/0146-lru-cache) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/AdwaitMishr/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/AdwaitMishr/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
