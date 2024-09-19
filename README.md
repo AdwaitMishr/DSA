@@ -133,6 +133,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AdwaitMishr/DSA/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/AdwaitMishr/DSA/tree/master/0148-sort-list) |
 ## Divide and Conquer
 |  |
@@ -141,6 +142,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AdwaitMishr/DSA/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/AdwaitMishr/DSA/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
@@ -162,6 +164,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AdwaitMishr/DSA/tree/master/0015-3sum) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AdwaitMishr/DSA/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/AdwaitMishr/DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/AdwaitMishr/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
