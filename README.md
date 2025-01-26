@@ -151,6 +151,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/AdwaitMishr/DSA/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AdwaitMishr/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/AdwaitMishr/DSA/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AdwaitMishr/DSA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -165,6 +166,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AdwaitMishr/DSA/tree/master/0015-3sum) |
+| [0079-word-search](https://github.com/AdwaitMishr/DSA/tree/master/0079-word-search) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AdwaitMishr/DSA/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/AdwaitMishr/DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/AdwaitMishr/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -197,6 +199,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | ------- |
 | [0013-roman-to-integer](https://github.com/AdwaitMishr/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/AdwaitMishr/DSA/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/AdwaitMishr/DSA/tree/master/0079-word-search) |
 ## Stack
 |  |
 | ------- |
@@ -241,6 +244,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/AdwaitMishr/DSA/tree/master/0079-word-search) |
 | [2411-spiral-matrix-iv](https://github.com/AdwaitMishr/DSA/tree/master/2411-spiral-matrix-iv) |
 ## Number Theory
 |  |
@@ -255,4 +259,8 @@ My repo for all the important theory and questions realted to dsa for quick revi
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/AdwaitMishr/DSA/tree/master/1435-xor-queries-of-a-subarray) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/AdwaitMishr/DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
