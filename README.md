@@ -167,6 +167,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | ------- |
 | [0015-3sum](https://github.com/AdwaitMishr/DSA/tree/master/0015-3sum) |
 | [0079-word-search](https://github.com/AdwaitMishr/DSA/tree/master/0079-word-search) |
+| [0139-word-break](https://github.com/AdwaitMishr/DSA/tree/master/0139-word-break) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AdwaitMishr/DSA/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/AdwaitMishr/DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/AdwaitMishr/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -201,6 +202,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [0013-roman-to-integer](https://github.com/AdwaitMishr/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/AdwaitMishr/DSA/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/AdwaitMishr/DSA/tree/master/0079-word-search) |
+| [0139-word-break](https://github.com/AdwaitMishr/DSA/tree/master/0139-word-break) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AdwaitMishr/DSA/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Stack
 |  |
@@ -220,6 +222,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AdwaitMishr/DSA/tree/master/0013-roman-to-integer) |
+| [0139-word-break](https://github.com/AdwaitMishr/DSA/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/AdwaitMishr/DSA/tree/master/0146-lru-cache) |
 ## Tree
 |  |
@@ -271,4 +274,16 @@ My repo for all the important theory and questions realted to dsa for quick revi
 |  |
 | ------- |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AdwaitMishr/DSA/tree/master/2456-construct-smallest-number-from-di-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0139-word-break](https://github.com/AdwaitMishr/DSA/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/AdwaitMishr/DSA/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/AdwaitMishr/DSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
