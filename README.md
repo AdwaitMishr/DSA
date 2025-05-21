@@ -166,6 +166,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AdwaitMishr/DSA/tree/master/0015-3sum) |
+| [0073-set-matrix-zeroes](https://github.com/AdwaitMishr/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/AdwaitMishr/DSA/tree/master/0079-word-search) |
 | [0135-candy](https://github.com/AdwaitMishr/DSA/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/AdwaitMishr/DSA/tree/master/0139-word-break) |
@@ -224,6 +225,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AdwaitMishr/DSA/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/AdwaitMishr/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/AdwaitMishr/DSA/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/AdwaitMishr/DSA/tree/master/0146-lru-cache) |
 ## Tree
@@ -252,6 +254,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/AdwaitMishr/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/AdwaitMishr/DSA/tree/master/0079-word-search) |
 | [2411-spiral-matrix-iv](https://github.com/AdwaitMishr/DSA/tree/master/2411-spiral-matrix-iv) |
 ## Number Theory
