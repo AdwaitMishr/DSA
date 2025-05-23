@@ -145,6 +145,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | ------- |
 | [0015-3sum](https://github.com/AdwaitMishr/DSA/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/AdwaitMishr/DSA/tree/master/0148-sort-list) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/AdwaitMishr/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Merge Sort
 |  |
 | ------- |
@@ -177,6 +178,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [1950-sign-of-the-product-of-an-array](https://github.com/AdwaitMishr/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AdwaitMishr/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2411-spiral-matrix-iv](https://github.com/AdwaitMishr/DSA/tree/master/2411-spiral-matrix-iv) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/AdwaitMishr/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3639-zero-array-transformation-i](https://github.com/AdwaitMishr/DSA/tree/master/3639-zero-array-transformation-i) |
 ## Math
 |  |
@@ -239,6 +241,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [0110-balanced-binary-tree](https://github.com/AdwaitMishr/DSA/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AdwaitMishr/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AdwaitMishr/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/AdwaitMishr/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Binary Tree
 |  |
 | ------- |
@@ -268,6 +271,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/AdwaitMishr/DSA/tree/master/1435-xor-queries-of-a-subarray) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/AdwaitMishr/DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/AdwaitMishr/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -283,10 +287,12 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | ------- |
 | [0135-candy](https://github.com/AdwaitMishr/DSA/tree/master/0135-candy) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AdwaitMishr/DSA/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/AdwaitMishr/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0139-word-break](https://github.com/AdwaitMishr/DSA/tree/master/0139-word-break) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/AdwaitMishr/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Trie
 |  |
 | ------- |
