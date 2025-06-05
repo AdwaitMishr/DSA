@@ -133,6 +133,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AdwaitMishr/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AdwaitMishr/DSA/tree/master/0015-3sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AdwaitMishr/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0148-sort-list](https://github.com/AdwaitMishr/DSA/tree/master/0148-sort-list) |
@@ -170,6 +171,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AdwaitMishr/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AdwaitMishr/DSA/tree/master/0015-3sum) |
 | [0073-set-matrix-zeroes](https://github.com/AdwaitMishr/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/AdwaitMishr/DSA/tree/master/0079-word-search) |
@@ -299,6 +301,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AdwaitMishr/DSA/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/AdwaitMishr/DSA/tree/master/0135-candy) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AdwaitMishr/DSA/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AdwaitMishr/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
