@@ -223,6 +223,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [0079-word-search](https://github.com/AdwaitMishr/DSA/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/AdwaitMishr/DSA/tree/master/0139-word-break) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AdwaitMishr/DSA/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AdwaitMishr/DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3194-find-words-containing-character](https://github.com/AdwaitMishr/DSA/tree/master/3194-find-words-containing-character) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/AdwaitMishr/DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Stack
@@ -234,6 +235,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [0145-binary-tree-postorder-traversal](https://github.com/AdwaitMishr/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/AdwaitMishr/DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AdwaitMishr/DSA/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AdwaitMishr/DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Design
 |  |
 | ------- |
@@ -247,6 +249,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [0139-word-break](https://github.com/AdwaitMishr/DSA/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/AdwaitMishr/DSA/tree/master/0146-lru-cache) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AdwaitMishr/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AdwaitMishr/DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Tree
 |  |
 | ------- |
@@ -304,6 +307,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [0011-container-with-most-water](https://github.com/AdwaitMishr/DSA/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/AdwaitMishr/DSA/tree/master/0135-candy) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AdwaitMishr/DSA/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AdwaitMishr/DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AdwaitMishr/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Dynamic Programming
 |  |
