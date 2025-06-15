@@ -192,6 +192,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AdwaitMishr/DSA/tree/master/0013-roman-to-integer) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/AdwaitMishr/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1806-count-of-matches-in-tournament](https://github.com/AdwaitMishr/DSA/tree/master/1806-count-of-matches-in-tournament) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AdwaitMishr/DSA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/AdwaitMishr/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -309,6 +310,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | ------- |
 | [0011-container-with-most-water](https://github.com/AdwaitMishr/DSA/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/AdwaitMishr/DSA/tree/master/0135-candy) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/AdwaitMishr/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AdwaitMishr/DSA/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AdwaitMishr/DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AdwaitMishr/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
