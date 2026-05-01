@@ -182,6 +182,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [0135-candy](https://github.com/AdwaitMishr/DSA/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/AdwaitMishr/DSA/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdwaitMishr/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0396-rotate-function](https://github.com/AdwaitMishr/DSA/tree/main/0396-rotate-function/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AdwaitMishr/DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/AdwaitMishr/DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AdwaitMishr/DSA/tree/master/1435-xor-queries-of-a-subarray) |
@@ -199,6 +200,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/AdwaitMishr/DSA/tree/master/0013-roman-to-integer) |
+| [0396-rotate-function](https://github.com/AdwaitMishr/DSA/tree/main/0396-rotate-function/) | Medium |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/AdwaitMishr/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1806-count-of-matches-in-tournament](https://github.com/AdwaitMishr/DSA/tree/master/1806-count-of-matches-in-tournament) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AdwaitMishr/DSA/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -337,6 +339,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/AdwaitMishr/DSA/tree/master/0139-word-break) |
+| [0396-rotate-function](https://github.com/AdwaitMishr/DSA/tree/main/0396-rotate-function/) | Medium |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AdwaitMishr/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3225-maximum-score-from-grid-operations](https://github.com/AdwaitMishr/DSA/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AdwaitMishr/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
