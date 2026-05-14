@@ -151,6 +151,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/AdwaitMishr/DSA/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/AdwaitMishr/DSA/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2689-rearranging-fruits](https://github.com/AdwaitMishr/DSA/tree/master/2689-rearranging-fruits) |
+| [2784-check-if-array-is-good](https://github.com/AdwaitMishr/DSA/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AdwaitMishr/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -196,6 +197,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [2411-spiral-matrix-iv](https://github.com/AdwaitMishr/DSA/tree/master/2411-spiral-matrix-iv) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AdwaitMishr/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2689-rearranging-fruits](https://github.com/AdwaitMishr/DSA/tree/master/2689-rearranging-fruits) |
+| [2784-check-if-array-is-good](https://github.com/AdwaitMishr/DSA/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3194-find-words-containing-character](https://github.com/AdwaitMishr/DSA/tree/master/3194-find-words-containing-character) |
 | [3225-maximum-score-from-grid-operations](https://github.com/AdwaitMishr/DSA/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AdwaitMishr/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -274,6 +276,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [2334-number-of-flowers-in-full-bloom](https://github.com/AdwaitMishr/DSA/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AdwaitMishr/DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2689-rearranging-fruits](https://github.com/AdwaitMishr/DSA/tree/master/2689-rearranging-fruits) |
+| [2784-check-if-array-is-good](https://github.com/AdwaitMishr/DSA/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AdwaitMishr/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Tree
 | Problem Name | Difficulty |
