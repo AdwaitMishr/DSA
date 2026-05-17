@@ -166,6 +166,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [0144-binary-tree-preorder-traversal](https://github.com/AdwaitMishr/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AdwaitMishr/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/AdwaitMishr/DSA/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [1306-jump-game-iii](https://github.com/AdwaitMishr/DSA/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AdwaitMishr/DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/AdwaitMishr/DSA/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Doubly-Linked List
@@ -187,6 +188,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AdwaitMishr/DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdwaitMishr/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0396-rotate-function](https://github.com/AdwaitMishr/DSA/tree/main/0396-rotate-function/) | Medium |
+| [1306-jump-game-iii](https://github.com/AdwaitMishr/DSA/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AdwaitMishr/DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/AdwaitMishr/DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AdwaitMishr/DSA/tree/master/1435-xor-queries-of-a-subarray) |
@@ -304,6 +306,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/AdwaitMishr/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AdwaitMishr/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [1306-jump-game-iii](https://github.com/AdwaitMishr/DSA/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AdwaitMishr/DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/AdwaitMishr/DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Matrix
