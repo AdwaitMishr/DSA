@@ -242,6 +242,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/AdwaitMishr/DSA/tree/main/0006-zigzag-conversion/) | Medium |
 | [0013-roman-to-integer](https://github.com/AdwaitMishr/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/AdwaitMishr/DSA/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/AdwaitMishr/DSA/tree/master/0079-word-search) |
