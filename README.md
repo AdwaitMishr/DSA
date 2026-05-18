@@ -192,6 +192,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdwaitMishr/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0396-rotate-function](https://github.com/AdwaitMishr/DSA/tree/main/0396-rotate-function/) | Medium |
 | [1306-jump-game-iii](https://github.com/AdwaitMishr/DSA/tree/main/1306-jump-game-iii/) | Medium |
+| [1345-jump-game-iv](https://github.com/AdwaitMishr/DSA/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AdwaitMishr/DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/AdwaitMishr/DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AdwaitMishr/DSA/tree/master/1435-xor-queries-of-a-subarray) |
@@ -279,6 +280,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [0073-set-matrix-zeroes](https://github.com/AdwaitMishr/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/AdwaitMishr/DSA/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/AdwaitMishr/DSA/tree/master/0146-lru-cache) |
+| [1345-jump-game-iv](https://github.com/AdwaitMishr/DSA/tree/main/1345-jump-game-iv/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/AdwaitMishr/DSA/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AdwaitMishr/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/AdwaitMishr/DSA/tree/master/2334-number-of-flowers-in-full-bloom) |
@@ -311,6 +313,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [0102-binary-tree-level-order-traversal](https://github.com/AdwaitMishr/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AdwaitMishr/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [1306-jump-game-iii](https://github.com/AdwaitMishr/DSA/tree/main/1306-jump-game-iii/) | Medium |
+| [1345-jump-game-iv](https://github.com/AdwaitMishr/DSA/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AdwaitMishr/DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/AdwaitMishr/DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Matrix
