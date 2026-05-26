@@ -263,6 +263,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AdwaitMishr/DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2833-furthest-point-from-origin](https://github.com/AdwaitMishr/DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AdwaitMishr/DSA/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3120-count-the-number-of-special-characters-i](https://github.com/AdwaitMishr/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3194-find-words-containing-character](https://github.com/AdwaitMishr/DSA/tree/master/3194-find-words-containing-character) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AdwaitMishr/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/AdwaitMishr/DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -299,6 +300,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [2689-rearranging-fruits](https://github.com/AdwaitMishr/DSA/tree/master/2689-rearranging-fruits) |
 | [2784-check-if-array-is-good](https://github.com/AdwaitMishr/DSA/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AdwaitMishr/DSA/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3120-count-the-number-of-special-characters-i](https://github.com/AdwaitMishr/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AdwaitMishr/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Tree
 | Problem Name | Difficulty |
