@@ -248,6 +248,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [3201-distribute-candies-among-children-ii](https://github.com/AdwaitMishr/DSA/tree/master/3201-distribute-candies-among-children-ii) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AdwaitMishr/DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/AdwaitMishr/DSA/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/AdwaitMishr/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -402,6 +403,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AdwaitMishr/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3225-maximum-score-from-grid-operations](https://github.com/AdwaitMishr/DSA/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AdwaitMishr/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/AdwaitMishr/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -450,6 +452,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [2202-sum-of-k-mirror-numbers](https://github.com/AdwaitMishr/DSA/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/AdwaitMishr/DSA/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/AdwaitMishr/DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/AdwaitMishr/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
