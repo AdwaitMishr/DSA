@@ -249,6 +249,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AdwaitMishr/DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/AdwaitMishr/DSA/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/AdwaitMishr/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/AdwaitMishr/DSA/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -404,6 +405,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [3225-maximum-score-from-grid-operations](https://github.com/AdwaitMishr/DSA/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AdwaitMishr/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/AdwaitMishr/DSA/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/AdwaitMishr/DSA/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
