@@ -218,6 +218,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [2411-spiral-matrix-iv](https://github.com/AdwaitMishr/DSA/tree/master/2411-spiral-matrix-iv) |
 | [2540-minimum-common-value](https://github.com/AdwaitMishr/DSA/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/AdwaitMishr/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/AdwaitMishr/DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AdwaitMishr/DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2689-rearranging-fruits](https://github.com/AdwaitMishr/DSA/tree/master/2689-rearranging-fruits) |
 | [2784-check-if-array-is-good](https://github.com/AdwaitMishr/DSA/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -371,6 +372,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [1435-xor-queries-of-a-subarray](https://github.com/AdwaitMishr/DSA/tree/master/1435-xor-queries-of-a-subarray) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/AdwaitMishr/DSA/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/AdwaitMishr/DSA/tree/master/2334-number-of-flowers-in-full-bloom) |
+| [2574-left-and-right-sum-differences](https://github.com/AdwaitMishr/DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3225-maximum-score-from-grid-operations](https://github.com/AdwaitMishr/DSA/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3639-zero-array-transformation-i](https://github.com/AdwaitMishr/DSA/tree/master/3639-zero-array-transformation-i) |
 ## Backtracking
