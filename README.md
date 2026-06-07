@@ -214,6 +214,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AdwaitMishr/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2126-destroying-asteroids](https://github.com/AdwaitMishr/DSA/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AdwaitMishr/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/AdwaitMishr/DSA/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/AdwaitMishr/DSA/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2411-spiral-matrix-iv](https://github.com/AdwaitMishr/DSA/tree/master/2411-spiral-matrix-iv) |
 | [2540-minimum-common-value](https://github.com/AdwaitMishr/DSA/tree/main/2540-minimum-common-value/) | Easy |
@@ -310,6 +311,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [1345-jump-game-iv](https://github.com/AdwaitMishr/DSA/tree/main/1345-jump-game-iv/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/AdwaitMishr/DSA/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AdwaitMishr/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/AdwaitMishr/DSA/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/AdwaitMishr/DSA/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AdwaitMishr/DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2540-minimum-common-value](https://github.com/AdwaitMishr/DSA/tree/main/2540-minimum-common-value/) | Easy |
@@ -328,6 +330,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [0110-balanced-binary-tree](https://github.com/AdwaitMishr/DSA/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AdwaitMishr/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AdwaitMishr/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/AdwaitMishr/DSA/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AdwaitMishr/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -338,6 +341,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [0110-balanced-binary-tree](https://github.com/AdwaitMishr/DSA/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AdwaitMishr/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AdwaitMishr/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/AdwaitMishr/DSA/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
