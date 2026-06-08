@@ -139,6 +139,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AdwaitMishr/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0148-sort-list](https://github.com/AdwaitMishr/DSA/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdwaitMishr/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/AdwaitMishr/DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/AdwaitMishr/DSA/tree/main/2540-minimum-common-value/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AdwaitMishr/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AdwaitMishr/DSA/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -214,6 +215,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AdwaitMishr/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2126-destroying-asteroids](https://github.com/AdwaitMishr/DSA/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AdwaitMishr/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/AdwaitMishr/DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AdwaitMishr/DSA/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/AdwaitMishr/DSA/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2411-spiral-matrix-iv](https://github.com/AdwaitMishr/DSA/tree/master/2411-spiral-matrix-iv) |
@@ -266,6 +268,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | ------- | ------- |
 | [1806-count-of-matches-in-tournament](https://github.com/AdwaitMishr/DSA/tree/master/1806-count-of-matches-in-tournament) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AdwaitMishr/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/AdwaitMishr/DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2411-spiral-matrix-iv](https://github.com/AdwaitMishr/DSA/tree/master/2411-spiral-matrix-iv) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AdwaitMishr/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 ## String
