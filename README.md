@@ -237,6 +237,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AdwaitMishr/DSA/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3639-zero-array-transformation-i](https://github.com/AdwaitMishr/DSA/tree/master/3639-zero-array-transformation-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/AdwaitMishr/DSA/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3691-maximum-total-subarray-value-ii](https://github.com/AdwaitMishr/DSA/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -407,6 +408,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AdwaitMishr/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AdwaitMishr/DSA/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/AdwaitMishr/DSA/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3691-maximum-total-subarray-value-ii](https://github.com/AdwaitMishr/DSA/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -472,6 +474,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AdwaitMishr/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/AdwaitMishr/DSA/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -480,4 +483,8 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AdwaitMishr/DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/AdwaitMishr/DSA/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 <!---LeetCode Topics End-->
