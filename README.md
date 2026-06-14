@@ -128,6 +128,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [0146-lru-cache](https://github.com/AdwaitMishr/DSA/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/AdwaitMishr/DSA/tree/master/0148-sort-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/AdwaitMishr/DSA/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AdwaitMishr/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2411-spiral-matrix-iv](https://github.com/AdwaitMishr/DSA/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AdwaitMishr/DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Two Pointers
@@ -140,6 +141,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AdwaitMishr/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0148-sort-list](https://github.com/AdwaitMishr/DSA/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdwaitMishr/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AdwaitMishr/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AdwaitMishr/DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/AdwaitMishr/DSA/tree/main/2540-minimum-common-value/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AdwaitMishr/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -306,6 +308,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [0144-binary-tree-preorder-traversal](https://github.com/AdwaitMishr/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AdwaitMishr/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/AdwaitMishr/DSA/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AdwaitMishr/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AdwaitMishr/DSA/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AdwaitMishr/DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AdwaitMishr/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
