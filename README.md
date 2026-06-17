@@ -282,6 +282,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [2411-spiral-matrix-iv](https://github.com/AdwaitMishr/DSA/tree/master/2411-spiral-matrix-iv) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AdwaitMishr/DSA/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/AdwaitMishr/DSA/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/AdwaitMishr/DSA/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/AdwaitMishr/DSA/tree/main/3838-weighted-word-mapping/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -300,6 +301,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [3194-find-words-containing-character](https://github.com/AdwaitMishr/DSA/tree/master/3194-find-words-containing-character) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AdwaitMishr/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3612-process-string-with-special-operations-i](https://github.com/AdwaitMishr/DSA/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/AdwaitMishr/DSA/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/AdwaitMishr/DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3838-weighted-word-mapping](https://github.com/AdwaitMishr/DSA/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Stack
