@@ -151,6 +151,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/AdwaitMishr/DSA/tree/master/0148-sort-list) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/AdwaitMishr/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,6 +174,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/AdwaitMishr/DSA/tree/master/0148-sort-list) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/AdwaitMishr/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -246,6 +248,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [3639-zero-array-transformation-i](https://github.com/AdwaitMishr/DSA/tree/master/3639-zero-array-transformation-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/AdwaitMishr/DSA/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/AdwaitMishr/DSA/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/AdwaitMishr/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/AdwaitMishr/DSA/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -348,6 +351,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AdwaitMishr/DSA/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AdwaitMishr/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AdwaitMishr/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/AdwaitMishr/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -408,6 +412,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [2574-left-and-right-sum-differences](https://github.com/AdwaitMishr/DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3225-maximum-score-from-grid-operations](https://github.com/AdwaitMishr/DSA/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3639-zero-array-transformation-i](https://github.com/AdwaitMishr/DSA/tree/master/3639-zero-array-transformation-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/AdwaitMishr/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -472,6 +477,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | ------- | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AdwaitMishr/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2833-furthest-point-from-origin](https://github.com/AdwaitMishr/DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/AdwaitMishr/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -512,6 +518,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/AdwaitMishr/DSA/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/AdwaitMishr/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
