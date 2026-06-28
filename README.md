@@ -163,6 +163,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/AdwaitMishr/DSA/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/AdwaitMishr/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/AdwaitMishr/DSA/tree/main/1840-maximum-building-height/) | Hard |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AdwaitMishr/DSA/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2126-destroying-asteroids](https://github.com/AdwaitMishr/DSA/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AdwaitMishr/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/AdwaitMishr/DSA/tree/master/2334-number-of-flowers-in-full-bloom) |
@@ -224,6 +225,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AdwaitMishr/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/AdwaitMishr/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/AdwaitMishr/DSA/tree/main/1840-maximum-building-height/) | Hard |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AdwaitMishr/DSA/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1950-sign-of-the-product-of-an-array](https://github.com/AdwaitMishr/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AdwaitMishr/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2126-destroying-asteroids](https://github.com/AdwaitMishr/DSA/tree/main/2126-destroying-asteroids/) | Medium |
@@ -431,6 +433,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/AdwaitMishr/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/AdwaitMishr/DSA/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/AdwaitMishr/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AdwaitMishr/DSA/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2126-destroying-asteroids](https://github.com/AdwaitMishr/DSA/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AdwaitMishr/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AdwaitMishr/DSA/tree/master/2456-construct-smallest-number-from-di-string) |
