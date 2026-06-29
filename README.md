@@ -228,6 +228,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AdwaitMishr/DSA/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1950-sign-of-the-product-of-an-array](https://github.com/AdwaitMishr/DSA/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AdwaitMishr/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AdwaitMishr/DSA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2126-destroying-asteroids](https://github.com/AdwaitMishr/DSA/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AdwaitMishr/DSA/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AdwaitMishr/DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -307,6 +308,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [0020-valid-parentheses](https://github.com/AdwaitMishr/DSA/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/AdwaitMishr/DSA/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/AdwaitMishr/DSA/tree/master/0139-word-break) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AdwaitMishr/DSA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AdwaitMishr/DSA/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AdwaitMishr/DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2833-furthest-point-from-origin](https://github.com/AdwaitMishr/DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
