@@ -191,6 +191,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AdwaitMishr/DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/AdwaitMishr/DSA/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AdwaitMishr/DSA/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/AdwaitMishr/DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AdwaitMishr/DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -399,6 +400,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AdwaitMishr/DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/AdwaitMishr/DSA/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AdwaitMishr/DSA/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/AdwaitMishr/DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -540,6 +542,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | ------- | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AdwaitMishr/DSA/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AdwaitMishr/DSA/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/AdwaitMishr/DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AdwaitMishr/DSA/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
@@ -559,6 +562,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AdwaitMishr/DSA/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/AdwaitMishr/DSA/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AdwaitMishr/DSA/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/AdwaitMishr/DSA/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Shortest Path
