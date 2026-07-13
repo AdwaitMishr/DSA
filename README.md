@@ -523,6 +523,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1291-sequential-digits](https://github.com/AdwaitMishr/DSA/tree/main/1291-sequential-digits/) | Medium |
 | [2202-sum-of-k-mirror-numbers](https://github.com/AdwaitMishr/DSA/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/AdwaitMishr/DSA/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/AdwaitMishr/DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
