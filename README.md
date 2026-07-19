@@ -320,6 +320,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [0020-valid-parentheses](https://github.com/AdwaitMishr/DSA/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/AdwaitMishr/DSA/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/AdwaitMishr/DSA/tree/master/0139-word-break) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AdwaitMishr/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AdwaitMishr/DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AdwaitMishr/DSA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AdwaitMishr/DSA/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -341,6 +342,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [0094-binary-tree-inorder-traversal](https://github.com/AdwaitMishr/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AdwaitMishr/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AdwaitMishr/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AdwaitMishr/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1497-design-a-stack-with-increment-operation](https://github.com/AdwaitMishr/DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AdwaitMishr/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AdwaitMishr/DSA/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -452,6 +454,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/AdwaitMishr/DSA/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/AdwaitMishr/DSA/tree/master/0135-candy) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AdwaitMishr/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/AdwaitMishr/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/AdwaitMishr/DSA/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/AdwaitMishr/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -580,4 +583,8 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3620-network-recovery-pathways](https://github.com/AdwaitMishr/DSA/tree/main/3620-network-recovery-pathways/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AdwaitMishr/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 <!---LeetCode Topics End-->
