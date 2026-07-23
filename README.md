@@ -253,6 +253,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AdwaitMishr/DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AdwaitMishr/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AdwaitMishr/DSA/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/AdwaitMishr/DSA/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AdwaitMishr/DSA/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AdwaitMishr/DSA/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AdwaitMishr/DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -334,6 +335,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [3120-count-the-number-of-special-characters-i](https://github.com/AdwaitMishr/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3194-find-words-containing-character](https://github.com/AdwaitMishr/DSA/tree/master/3194-find-words-containing-character) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AdwaitMishr/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/AdwaitMishr/DSA/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3612-process-string-with-special-operations-i](https://github.com/AdwaitMishr/DSA/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/AdwaitMishr/DSA/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/AdwaitMishr/DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -530,6 +532,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdwaitMishr/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/AdwaitMishr/DSA/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2540-minimum-common-value](https://github.com/AdwaitMishr/DSA/tree/main/2540-minimum-common-value/) | Easy |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/AdwaitMishr/DSA/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AdwaitMishr/DSA/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/AdwaitMishr/DSA/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AdwaitMishr/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -567,6 +570,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/AdwaitMishr/DSA/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/AdwaitMishr/DSA/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AdwaitMishr/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AdwaitMishr/DSA/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
