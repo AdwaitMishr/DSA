@@ -171,6 +171,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [2689-rearranging-fruits](https://github.com/AdwaitMishr/DSA/tree/master/2689-rearranging-fruits) |
 | [2784-check-if-array-is-good](https://github.com/AdwaitMishr/DSA/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AdwaitMishr/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3536-maximum-product-of-two-digits](https://github.com/AdwaitMishr/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AdwaitMishr/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AdwaitMishr/DSA/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AdwaitMishr/DSA/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -290,6 +291,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AdwaitMishr/DSA/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AdwaitMishr/DSA/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AdwaitMishr/DSA/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/AdwaitMishr/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AdwaitMishr/DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/AdwaitMishr/DSA/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/AdwaitMishr/DSA/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
