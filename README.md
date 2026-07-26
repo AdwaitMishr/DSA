@@ -160,6 +160,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [0015-3sum](https://github.com/AdwaitMishr/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AdwaitMishr/DSA/tree/main/0018-4sum/) | Medium |
 | [0148-sort-list](https://github.com/AdwaitMishr/DSA/tree/master/0148-sort-list) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AdwaitMishr/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1340-jump-game-v](https://github.com/AdwaitMishr/DSA/tree/main/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/AdwaitMishr/DSA/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/AdwaitMishr/DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -218,6 +219,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AdwaitMishr/DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdwaitMishr/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0396-rotate-function](https://github.com/AdwaitMishr/DSA/tree/main/0396-rotate-function/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/AdwaitMishr/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/AdwaitMishr/DSA/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/AdwaitMishr/DSA/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/AdwaitMishr/DSA/tree/main/1340-jump-game-v/) | Hard |
@@ -274,6 +276,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/AdwaitMishr/DSA/tree/master/0013-roman-to-integer) |
 | [0396-rotate-function](https://github.com/AdwaitMishr/DSA/tree/main/0396-rotate-function/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/AdwaitMishr/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/AdwaitMishr/DSA/tree/main/0788-rotated-digits/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AdwaitMishr/DSA/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/AdwaitMishr/DSA/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
