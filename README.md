@@ -297,6 +297,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AdwaitMishr/DSA/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/AdwaitMishr/DSA/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AdwaitMishr/DSA/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/AdwaitMishr/DSA/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/AdwaitMishr/DSA/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AdwaitMishr/DSA/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/AdwaitMishr/DSA/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -347,6 +348,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AdwaitMishr/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/AdwaitMishr/DSA/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AdwaitMishr/DSA/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/AdwaitMishr/DSA/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3612-process-string-with-special-operations-i](https://github.com/AdwaitMishr/DSA/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/AdwaitMishr/DSA/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/AdwaitMishr/DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -391,6 +393,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AdwaitMishr/DSA/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AdwaitMishr/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AdwaitMishr/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/AdwaitMishr/DSA/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AdwaitMishr/DSA/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AdwaitMishr/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AdwaitMishr/DSA/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -534,6 +537,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | ------- | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AdwaitMishr/DSA/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2833-furthest-point-from-origin](https://github.com/AdwaitMishr/DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/AdwaitMishr/DSA/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AdwaitMishr/DSA/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -553,6 +557,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/AdwaitMishr/DSA/tree/master/3201-distribute-candies-among-children-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/AdwaitMishr/DSA/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/AdwaitMishr/DSA/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Enumeration
 | Problem Name | Difficulty |
