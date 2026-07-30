@@ -291,6 +291,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [2202-sum-of-k-mirror-numbers](https://github.com/AdwaitMishr/DSA/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2383-add-two-integers](https://github.com/AdwaitMishr/DSA/tree/master/2383-add-two-integers) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/AdwaitMishr/DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AdwaitMishr/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/AdwaitMishr/DSA/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/AdwaitMishr/DSA/tree/master/3201-distribute-candies-among-children-ii) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AdwaitMishr/DSA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -341,6 +342,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [2456-construct-smallest-number-from-di-string](https://github.com/AdwaitMishr/DSA/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AdwaitMishr/DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2833-furthest-point-from-origin](https://github.com/AdwaitMishr/DSA/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AdwaitMishr/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AdwaitMishr/DSA/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/AdwaitMishr/DSA/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AdwaitMishr/DSA/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -487,6 +489,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [2456-construct-smallest-number-from-di-string](https://github.com/AdwaitMishr/DSA/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AdwaitMishr/DSA/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2689-rearranging-fruits](https://github.com/AdwaitMishr/DSA/tree/master/2689-rearranging-fruits) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AdwaitMishr/DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AdwaitMishr/DSA/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AdwaitMishr/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AdwaitMishr/DSA/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
