@@ -222,6 +222,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AdwaitMishr/DSA/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdwaitMishr/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0396-rotate-function](https://github.com/AdwaitMishr/DSA/tree/main/0396-rotate-function/) | Medium |
+| [0486-predict-the-winner](https://github.com/AdwaitMishr/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/AdwaitMishr/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/AdwaitMishr/DSA/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/AdwaitMishr/DSA/tree/main/1306-jump-game-iii/) | Medium |
@@ -280,6 +281,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/AdwaitMishr/DSA/tree/master/0013-roman-to-integer) |
 | [0396-rotate-function](https://github.com/AdwaitMishr/DSA/tree/main/0396-rotate-function/) | Medium |
+| [0486-predict-the-winner](https://github.com/AdwaitMishr/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/AdwaitMishr/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/AdwaitMishr/DSA/tree/main/0788-rotated-digits/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AdwaitMishr/DSA/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
@@ -311,6 +313,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/AdwaitMishr/DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0486-predict-the-winner](https://github.com/AdwaitMishr/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AdwaitMishr/DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 | Problem Name | Difficulty |
@@ -505,6 +508,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | ------- | ------- |
 | [0139-word-break](https://github.com/AdwaitMishr/DSA/tree/master/0139-word-break) |
 | [0396-rotate-function](https://github.com/AdwaitMishr/DSA/tree/main/0396-rotate-function/) | Medium |
+| [0486-predict-the-winner](https://github.com/AdwaitMishr/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0788-rotated-digits](https://github.com/AdwaitMishr/DSA/tree/main/0788-rotated-digits/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/AdwaitMishr/DSA/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1340-jump-game-v](https://github.com/AdwaitMishr/DSA/tree/main/1340-jump-game-v/) | Hard |
@@ -626,4 +630,8 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/AdwaitMishr/DSA/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AdwaitMishr/DSA/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/AdwaitMishr/DSA/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
