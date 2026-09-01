@@ -650,4 +650,8 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/AdwaitMishr/DSA/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/AdwaitMishr/DSA/tree/main/0877-stone-game/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0176-second-highest-salary](https://github.com/AdwaitMishr/DSA/tree/main/0176-second-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
