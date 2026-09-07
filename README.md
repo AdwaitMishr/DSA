@@ -657,4 +657,5 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [0176-second-highest-salary](https://github.com/AdwaitMishr/DSA/tree/main/0176-second-highest-salary/) | Medium |
 | [0184-department-highest-salary](https://github.com/AdwaitMishr/DSA/tree/main/0184-department-highest-salary/) | Medium |
 | [0185-department-top-three-salaries](https://github.com/AdwaitMishr/DSA/tree/main/0185-department-top-three-salaries/) | Hard |
+| [0262-trips-and-users](https://github.com/AdwaitMishr/DSA/tree/main/0262-trips-and-users/) | Hard |
 <!---LeetCode Topics End-->
