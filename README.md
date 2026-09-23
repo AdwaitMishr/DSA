@@ -141,6 +141,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AdwaitMishr/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0148-sort-list](https://github.com/AdwaitMishr/DSA/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdwaitMishr/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0295-find-median-from-data-stream](https://github.com/AdwaitMishr/DSA/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AdwaitMishr/DSA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AdwaitMishr/DSA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/AdwaitMishr/DSA/tree/main/2540-minimum-common-value/) | Easy |
@@ -161,6 +162,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [0015-3sum](https://github.com/AdwaitMishr/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/AdwaitMishr/DSA/tree/main/0018-4sum/) | Medium |
 | [0148-sort-list](https://github.com/AdwaitMishr/DSA/tree/master/0148-sort-list) |
+| [0295-find-median-from-data-stream](https://github.com/AdwaitMishr/DSA/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0628-maximum-product-of-three-numbers](https://github.com/AdwaitMishr/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1340-jump-game-v](https://github.com/AdwaitMishr/DSA/tree/main/1340-jump-game-v/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AdwaitMishr/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -385,6 +387,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/AdwaitMishr/DSA/tree/master/0146-lru-cache) |
+| [0295-find-median-from-data-stream](https://github.com/AdwaitMishr/DSA/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [1497-design-a-stack-with-increment-operation](https://github.com/AdwaitMishr/DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -597,6 +600,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/AdwaitMishr/DSA/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AdwaitMishr/DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AdwaitMishr/DSA/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3620-network-recovery-pathways](https://github.com/AdwaitMishr/DSA/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -658,4 +662,8 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [0184-department-highest-salary](https://github.com/AdwaitMishr/DSA/tree/main/0184-department-highest-salary/) | Medium |
 | [0185-department-top-three-salaries](https://github.com/AdwaitMishr/DSA/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0262-trips-and-users](https://github.com/AdwaitMishr/DSA/tree/main/0262-trips-and-users/) | Hard |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/AdwaitMishr/DSA/tree/main/0295-find-median-from-data-stream/) | Hard |
 <!---LeetCode Topics End-->
