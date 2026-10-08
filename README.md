@@ -136,6 +136,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/AdwaitMishr/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AdwaitMishr/DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/AdwaitMishr/DSA/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/AdwaitMishr/DSA/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/AdwaitMishr/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AdwaitMishr/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -160,6 +161,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/AdwaitMishr/DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/AdwaitMishr/DSA/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/AdwaitMishr/DSA/tree/main/0018-4sum/) | Medium |
 | [0148-sort-list](https://github.com/AdwaitMishr/DSA/tree/master/0148-sort-list) |
 | [0295-find-median-from-data-stream](https://github.com/AdwaitMishr/DSA/tree/main/0295-find-median-from-data-stream/) | Hard |
@@ -214,6 +216,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/AdwaitMishr/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AdwaitMishr/DSA/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/AdwaitMishr/DSA/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/AdwaitMishr/DSA/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/AdwaitMishr/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/AdwaitMishr/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
