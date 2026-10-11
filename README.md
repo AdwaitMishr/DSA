@@ -261,6 +261,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | [2574-left-and-right-sum-differences](https://github.com/AdwaitMishr/DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AdwaitMishr/DSA/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2689-rearranging-fruits](https://github.com/AdwaitMishr/DSA/tree/master/2689-rearranging-fruits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AdwaitMishr/DSA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/AdwaitMishr/DSA/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AdwaitMishr/DSA/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/AdwaitMishr/DSA/tree/main/3093-longest-common-suffix-queries/) | Hard |
@@ -596,6 +597,7 @@ My repo for all the important theory and questions realted to dsa for quick revi
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/AdwaitMishr/DSA/tree/main/1291-sequential-digits/) | Medium |
 | [2202-sum-of-k-mirror-numbers](https://github.com/AdwaitMishr/DSA/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AdwaitMishr/DSA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3201-distribute-candies-among-children-ii](https://github.com/AdwaitMishr/DSA/tree/master/3201-distribute-candies-among-children-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/AdwaitMishr/DSA/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/AdwaitMishr/DSA/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
